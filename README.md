@@ -12,17 +12,12 @@ The global logistics services market was valued at $9.96 trillion in 2022 and is
 ## Goal
 Our goal is to leverage technology to capture a significant portion of the logistics software market by 2030. This analysis shows the projected market value of logistics software from 2025 to 2033, based on the expected annual growth rate.
 
-## Project Details
-
-This project uses Python to visualize the projected growth of the logistics software market using the compound annual growth rate (CAGR) of 6.7%. The data is plotted over the years from 2025 to 2033.
-
-
 ## Explanation
 
 * **Years**: From 2025 to 2033, this range covers the years of projected market growth.
 * **Initial Market Value**: The market value in 2025 is set at $17 billion.
 * **Growth Rate**: A compound annual growth rate (CAGR) of 6.7% is applied to the market value.
-* **Plot**: The bar chart represents the projected market value for each year. The bars are color-coded with a blue gradient, and the exact market value is displayed at the top of each bar.
+* **Plot**: The bar chart represents the projected market value for each year.
 
 ## Conclusion
 
